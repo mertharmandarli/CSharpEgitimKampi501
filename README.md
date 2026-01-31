@@ -10,7 +10,9 @@
 Bu proje, **C#** ve **Windows Forms** kullanılarak geliştirilmiş, **Dapper ORM** ile veritabanı işlemlerini yöneten modern bir masaüstü uygulamasıdır.
 
 Murat Yücedağ C# Eğitim Dersleri kapsamında geliştirilmiş olup, **Clean Code** prensipleri ve **Asenkron Programlama** teknikleri üzerine odaklanılmıştır.
-Youtube Oynatma Listesi Linki: https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr 
+
+### 🙏 Teşekkür
+Bu proje, **Murat Yücedağ**'ın YouTube üzerindeki eğitim içerikleri ve rehberliği takip edilerek geliştirilmiştir.
 
 Ekran Tasarımı Aşağıda Bulunmaktadır.
 
@@ -54,7 +56,9 @@ Geleneksel ADO.NET yerine, daha performanslı ve hafif bir ORM olan **Dapper** k
 This project is a modern desktop application developed with **C#** and **Windows Forms**, managing database operations using **Dapper ORM**. 
 
 It was developed as part of the **Murat Yücedağ C# Bootcamp Lessons**, focusing on **Clean Code** principles and **Asynchronous Programming** techniques instead of traditional ADO.NET methods.
-The Youtube Playlist Link: https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr
+
+### 🙏 Acknowledgments
+This project was developed by following the educational content and guidance of **Murat Yücedağ** on YouTube.
 
 UI design is located below the text.
 
